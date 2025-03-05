@@ -182,7 +182,7 @@
   .user-details {
     display: flex;
     flex-direction: column;
-    padding: 16px 16px 12px 16px;
+    padding: 16px 23.5px 12px 16px;
     background-color: #FFFFFF;
     border-bottom: 2px solid #DFDFDF;
   }
