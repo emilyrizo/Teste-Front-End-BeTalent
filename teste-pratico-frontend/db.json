@@ -1,0 +1,84 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "João Pedro Farias",
+      "job": "Back-end",
+      "admission_date": "2019-12-02T00:00:00.000Z",
+      "phone": "5551234567890",
+      "image": "/src/assets/images/joao.png"
+    },
+    {
+      "id": 2,
+      "name": "Reginaldo Felipe",
+      "job": "Front-end",
+      "admission_date": "2020-03-12T00:00:00.000Z",
+      "phone": "5550321654789",
+      "image": "/src/assets/images/reginaldo.png"
+    },
+    {
+      "id": 3,
+      "name": "Vanessa Machado",
+      "job": "Front-end",
+      "admission_date": "2020-03-15T00:00:00.000Z",
+      "phone": "5557894561230",
+      "image": "/src/assets/images/vanessa.png"
+    },
+    {
+      "id": 4,
+      "name": "Silvio de Carvalho",
+      "job": "Back-end",
+      "admission_date": "2020-06-01T00:00:00.000Z",
+      "phone": "5557410258963",
+      "image": "/src/assets/images/silvio.png"
+    },
+    {
+      "id": 5,
+      "name": "Giovana L. Arruda",
+      "job": "Designer",
+      "admission_date": "2020-06-20T00:00:00.000Z",
+      "phone": "5553698520147",
+      "image": "/src/assets/images/giovana.png"
+    },
+    {
+      "id": 6,
+      "name": "Omar A. Amaral",
+      "job": "Front-end",
+      "admission_date": "2020-10-01T00:00:00.000Z",
+      "phone": "5551234567890",
+      "image": "/src/assets/images/omar.png"
+    },
+    {
+      "id": 7,
+      "name": "Gabriel D.",
+      "job": "Back-end",
+      "admission_date": "2021-01-01T00:00:00.000Z",
+      "phone": "5551234567890",
+      "image": "/src/assets/images/gabriel.png"
+    },
+    {
+      "id": 8,
+      "name": "Juliana Borba",
+      "job": "Back-end",
+      "admission_date": "2021-03-01T00:00:00.000Z",
+      "phone": "5551234567890",
+      "image": "/src/assets/images/juliana.png"
+    },
+    {
+      "id": 9,
+      "name": "Caroline Rocha da Silva",
+      "job": "Front-end",
+      "admission_date": "2021-04-01T00:00:00.000Z",
+      "phone": "5551235467980",
+      "image": "/src/assets/images/caroline.png"
+    },
+    {
+      "id": 10,
+      "name": "Josiane Dias",
+      "job": "Front-end",
+      "admission_date": "2021-05-01T00:00:00.000Z",
+      "phone": "5551234567890",
+      "image": "/src/assets/images/josiane.png"
+    }
+  ]
+}

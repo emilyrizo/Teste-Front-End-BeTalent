@@ -1,0 +1,23 @@
+.navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 23px 32px;
+  background-color: #FFFFFF;
+  box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.nav-logo {
+  display: flex;
+  width: 960px
+}
+
+.logo {
+  height: 14px;
+}
+
+@media (max-width: 768px) {
+  .navbar {
+    padding: 23px 20px;
+  }
+}
