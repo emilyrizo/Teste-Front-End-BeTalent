@@ -43,7 +43,7 @@ yarn install
 ### 3️⃣ Rodar o Servidor JSON (API Simulada)
 Antes de iniciar o projeto, instale e rode o `json-server` para fornecer os dados:
 ```bash
-cd teste-pratico-frontend
+cd db-json-server
 
 npx json-server --watch db.json
 # Ou
